@@ -1,0 +1,20 @@
+
+
+final table column goals =
+    - apn, time between the first and last sale, distance to the closest development, 
+    time between development construction and last sale, difference in saleamount from first to last sale
+
+// for property in final table:
+
+-make a list of developments that were built between the first and last sale 
+    - for every development in this list, calculate the distance to our property and select the smallest distance
+
+    - how much time since development construction and last sale for the closest development
+
+- calculate the time between first and last sale
+- net change in price 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+stretch goal: heat map for 2022 sales, showing average saleamount for sales in 2022
+             with developments plotted on top of the heatmap
